@@ -1,4 +1,7 @@
 data
 venv_cars/
 venv/
-
+.env
+app.log
+data.xml
+db.sqlite3
